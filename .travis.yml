@@ -13,7 +13,7 @@ install:
 before_script:
 - echo "no tests. Yes there will be tests"
 
-## Build Build
+## Build
 script:
 - docker --version
 - docker build -t udagram-reverseproxy ./udagram-reverseproxy
