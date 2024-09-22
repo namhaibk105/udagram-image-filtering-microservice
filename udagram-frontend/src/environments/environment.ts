@@ -4,9 +4,9 @@
 
 export const environment = {
   production: false,
-  appName: 'Udagram',
-  // apiHost: 'http://aac32c15ef7e743fd910a89e7ca04454-1902587025.us-east-1.elb.amazonaws.com:8080/api/v0'
-  apiHost: 'http://localhost:8080/api/v0'
+  appName: 'Udagram Image Filtering Microservice',
+  //apiHost: 'http://localhost:8080/api/v0'
+  apiHost: 'http://af6cf2d2705d24cd7976a0fa2240c2a5-2119190312.us-east-1.elb.amazonaws.com:8080/api/v0'
 };
 
 /*
